@@ -4,11 +4,13 @@
 
 ###
 
-<picture align="center" display = "block">
-  <source  media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source  media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img alt="GIF description" src="./Skills_Animation_White.gif">
+  </picture>
+</p>
 <br clear="both" />
 
 <!-- <div align="center">
@@ -282,7 +284,7 @@ To leverage my expertise to empower businesses and organizations to make smarter
 - Deep Learning & Natural Language Processing (NLP)
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-<div style="flex: 1; padding-right: 10px;">
+<div align="center" style="flex: 1; padding-right: 10px;">
 
 ![image](https://github.com/user-attachments/assets/e287f08c-4ccf-4562-8ac7-d0ba6ba06f42)
 
@@ -304,7 +306,7 @@ To leverage my expertise to empower businesses and organizations to make smarter
 
 </div>
 
-<div style="flex: 1; padding-left: 10px;">
+<div align="center" style="flex: 1; padding-left: 10px;">
 
 ![image](https://github.com/user-attachments/assets/92de3845-f7f3-470a-93d8-79094b299b54)
 
