@@ -13,11 +13,11 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ecocraft201315-dev&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ecocraft201315&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
     width="54%"
     alt="languages graph" />
   <img
-    src="https://streak-stats.demolab.com/?user=ecocraft201315-dev&theme=neon&hide_border=true&card_width=420"
+    src="https://streak-stats.demolab.com/?user=ecocraft201315&theme=neon&hide_border=true&card_width=420"
     width="45%"
     alt="languages graph" />
 </div>
