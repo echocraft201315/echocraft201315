@@ -347,7 +347,7 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" width="80" height="80" /></td>
     <td><img src="https://www.pngkey.com/png/full/380-3800394_pytorch-logo.png" width="80" height="80" /></td>
     <td><img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" width="80" height="80" /></td>
-    <td><img src="https://cilans.net/wp-content/uploads/2024/02/NLTK.png" width="80" height="80" /></td>
+    <td><img src="https://static.thenounproject.com/png/3061239-200.png" width="80" height="80" /></td>
   </tr>
   <tr>
     <td><img src="https://i.imgur.com/dJQSclW.png" width="80" height="80" /></td>
@@ -356,7 +356,7 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td><img src="https://viz.mediapipe.dev/logo.png" width="80" height="80" /></td>
     <td><img src="https://static.vecteezy.com/system/resources/previews/009/384/309/non_2x/face-verification-unlock-clipart-design-illustration-free-png.png" width="80" height="80" /></td>
     <td><img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-speech-recognition-color-icon-png-image_5254019.png" width="80" height="80" /></td>
-    <td><img src="https://python-pillow.org/assets/images/pillow-logo-248x250.png" width="80" height="80" /></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bIoDvtMT5NHEDaElzA1JBenlgNlXWAz85A&s" width="80" height="80" /></td>
     <td><img src="https://www.pngkey.com/png/full/343-3434526_missingno-missingno-sprite.png" width="80" height="80" /></td>
   </tr>
   <tr>
@@ -374,8 +374,8 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td><img src="https://lime.data-imaginist.com/reference/figures/logo.png" width="80" height="80" /></td>
     <td><img src="https://numfocus.org/wp-content/uploads/2022/12/CuPy_300x300.png" width="80" height="80" /></td>
     <td><img src="https://pbs.twimg.com/profile_images/1049911508296224770/9R5kP6Ql_400x400.jpg" width="80" height="80" /></td>
-    <td><img src="https://static.thenounproject.com/png/3061239-200.png" width="80" height="80" /></td>
-    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bIoDvtMT5NHEDaElzA1JBenlgNlXWAz85A&s" width="80" height="80" /></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
