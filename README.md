@@ -289,7 +289,7 @@ To leverage my expertise to empower businesses and organizations to make smarter
 ![image](https://github.com/user-attachments/assets/e287f08c-4ccf-4562-8ac7-d0ba6ba06f42)
 
 | **🚀 Category**                    | **💻 Skills & Libraries**                              |
-| ---------------------------------- | ------------------------------------------------------ | --- |
+| ---------------------------------- | ------------------------------------------------------ |
 | **🖥️ Programming**                 | Python, SQL, NumPy, Pandas, SciPy, Matplotlib, Seaborn |
 | **🤖 Machine Learning**            | Scikit-learn, XGBoost, LightGBM                        |
 | **🧠 Deep Learning**               | TensorFlow, Keras, PyTorch, Hugging Face Transformers  |
@@ -298,7 +298,7 @@ To leverage my expertise to empower businesses and organizations to make smarter
 | **🖼️ Image Processing**            | OpenCV, Scikit-Image, Pillow, MediaPipe                |
 | **🧹 Data Cleaning & Wrangling**   | Pandas Profiling, Missingno, Pyjanitor                 |
 | **📂 Big Data**                    | PySpark, Dask, Hadoop                                  |
-| **📈 Time Series Analysis**        | Statsmodels                                            |     |
+| **📈 Time Series Analysis**        | Statsmodels                                            |
 | **🌐 Web Scraping**                | BeautifulSoup, Scrapy, Requests                        |
 | **🤔 Explainable AI**              | ELI5, SHAP, LIME                                       |
 | **⚡ GPU Acceleration**            | CuPy, RAPIDS                                           |
@@ -328,7 +328,7 @@ To leverage my expertise to empower businesses and organizations to make smarter
 
 </div>
 </div>
-<table>
+<table align="center">
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" height="50" /></td>
     <td><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-part-azure-sql-database-with-azure-active-directory-17.png" width="55" height="50" /></td>
