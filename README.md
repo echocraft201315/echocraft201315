@@ -4,10 +4,10 @@
 
 ###
 
-<picture>
+<picture align="center">
   <source  media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 <br clear="both" />
 
@@ -401,7 +401,7 @@ To leverage my expertise to empower businesses and organizations to make smarter
   </table>
 </div> -->
 
-![image](https://github.com/user-attachments/assets/6fb55673-a5dc-49f7-ab11-3ddfc1e5aa07)
+<!-- ![image](https://github.com/user-attachments/assets/6fb55673-a5dc-49f7-ab11-3ddfc1e5aa07)
 
 <table>
   <tr>
@@ -411,7 +411,7 @@ To leverage my expertise to empower businesses and organizations to make smarter
     <td><a href="mailto:rubypoddarr@gmail.com"><img src="https://ouch-cdn2.icons8.com/Q_mKQhLvgHc4CpJslA6YAg1orkPp2LG3W6rdaEQZ1oo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTYv/MzE3NWFhMzAtMmQw/Yi00MDgyLTlhZWMt/ZWUyZGNlYzQwYmM0/LnBuZw.png" width="50" height="50" /></a></td>
     <td><a href="https://wa.link/4yc03p"><img src="https://ouch-cdn2.icons8.com/1oizdSHZL50V6Q9nrhAoQ1yymCfuay57pGsUUgpdOKo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTY0/L2U0NTdjYWFlLWMy/MWUtNDU5Yi1iMzcy/LTQ4OWIwM2U5ZDgw/OC5wbmc.png" width="50" height="50" /></a></td>
   </tr>
-</table>
+</table> -->
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
