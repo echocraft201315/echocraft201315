@@ -5,13 +5,13 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source  media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 <br clear="both" />
 
-<div align="center">
+<!-- <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=echocraft201315&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
     width="54%"
@@ -20,7 +20,7 @@
     src="https://streak-stats.demolab.com/?user=echocraft201315&theme=neon&hide_border=true&card_width=420"
     width="45%"
     alt="languages graph" />
-</div>
+</div> -->
 
 ###
 
@@ -257,7 +257,7 @@
   <img src="https://i.pinimg.com/originals/ac/65/8c/ac658c8d007348e91787f8396a111c30.gif" width="80" height="80" />
 </div>
 
-![image](https://github.com/user-attachments/assets/c6e62e7b-083c-42c5-ae52-8ca72a8caf11)
+#### Me
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=echocraft201315&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
@@ -391,7 +391,7 @@ To leverage my expertise to empower businesses and organizations to make smarter
 
 ![Profile Views](https://profile-counter.glitch.me/echocraft201315/count.svg)
 
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=echocraft201315&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="300px"/></td>
@@ -399,7 +399,7 @@ To leverage my expertise to empower businesses and organizations to make smarter
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echocraft201315&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="300px"/></td>
     </tr>
   </table>
-</div>
+</div> -->
 
 ![image](https://github.com/user-attachments/assets/6fb55673-a5dc-49f7-ab11-3ddfc1e5aa07)
 
@@ -424,7 +424,7 @@ To leverage my expertise to empower businesses and organizations to make smarter
   <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/echocraft201315?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=echocraft201315&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="@echocraft201315's github-readme-stats-one-bice"/>
   </a>
@@ -435,4 +435,4 @@ To leverage my expertise to empower businesses and organizations to make smarter
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=echocraft201315&&style=flat-square" align="center" />
-</div>
+</div> -->
