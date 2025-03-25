@@ -13,11 +13,11 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ecocraft201315&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=echocraft201315&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
     width="54%"
     alt="languages graph" />
   <img
-    src="https://streak-stats.demolab.com/?user=ecocraft201315&theme=neon&hide_border=true&card_width=420"
+    src="https://streak-stats.demolab.com/?user=echocraft201315&theme=neon&hide_border=true&card_width=420"
     width="45%"
     alt="languages graph" />
 </div>
@@ -425,14 +425,14 @@ To leverage my expertise to empower businesses and organizations to make smarter
 </div>
 
 <p align="center">
-  <a href="https://github.com/ecocraft201315?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ecocraft201315&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="@ecocraft201315's github-readme-stats-one-bice"/>
+  <a href="https://github.com/echocraft201315?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=echocraft201315&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="@echocraft201315's github-readme-stats-one-bice"/>
   </a>
-  <a href="https://github.com/ecocraft201315?tab=stars">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ecocraft201315&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="49%" alt="@ecocraft201315's github-readme-streak-stats"/>
+  <a href="https://github.com/echocraft201315?tab=stars">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=echocraft201315&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="49%" alt="@echocraft201315's github-readme-streak-stats"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ecocraft201315&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=echocraft201315&&style=flat-square" align="center" />
 </div>
