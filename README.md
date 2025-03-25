@@ -259,7 +259,7 @@
 
 ![image](https://github.com/user-attachments/assets/c6e62e7b-083c-42c5-ae52-8ca72a8caf11)
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=rubydamodar&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=echocraft201315&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 #### Data Science Enthusiast
 
@@ -386,17 +386,17 @@ To leverage my expertise to empower businesses and organizations to make smarter
 
 ![image](https://github.com/user-attachments/assets/7444bd5f-8a9c-44e0-9487-af5eeb2d3734)
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubydamodar&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubydamodar&theme=chartreuse_dark&utcOffset=8) |
-| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=echocraft201315&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=echocraft201315&theme=chartreuse_dark&utcOffset=8) |
+| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 
-![Profile Views](https://profile-counter.glitch.me/rubydamodar/count.svg)
+![Profile Views](https://profile-counter.glitch.me/echocraft201315/count.svg)
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=rubydamodar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="300px"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rubydamodar&theme=vue-dark&hide_border=true" width="300px"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubydamodar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="300px"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=echocraft201315&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="300px"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=echocraft201315&theme=vue-dark&hide_border=true" width="300px"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echocraft201315&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="300px"/></td>
     </tr>
   </table>
 </div>
