@@ -1,4 +1,4 @@
-<h1 align="center">AI & Data Scientist</h1>
+<h1 align="center">AI & Full stack</h1>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
