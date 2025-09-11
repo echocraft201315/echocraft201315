@@ -8,7 +8,7 @@
 </p>
 <br clear="both" />
 
-I am a dedicated and passionate **Data Scientist** with a focus on applying advanced statistical modeling, machine learning, and data-driven insights to transform complex data into actionable solutions. My expertise spans the entire data science lifecycle, from **exploratory analysis** to **model development**, followed by **evaluation** and **visualization**.
+I am a dedicated and passionate **Full stack developer**.
 
 <div>
 - Statistical Modeling & Machine Learning
