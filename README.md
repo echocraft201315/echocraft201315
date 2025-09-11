@@ -9,7 +9,31 @@
 <br clear="both" />
 
 I am a dedicated and passionate **Full stack developer**.
-
+<div>
+  🛠️ Technical Stack:
+</div>
+div>
+- Languages: JavaScript/TypeScript, Python, PHP (Learning Rust)
+</div>
+<div>
+- Frameworks: React, Next.js, Node.js, Express.js, FastAPI, Django, Flask, .Net, React Native/Flutter(mobile)
+</div>
+div>
+- Databases: PostgreSQL, MongoDB, MySQL, Supabase (Firebase alternative)
+</div>
+<div>
+- Automation Tools: N8N, Make.com, Zapier, GoHighLevel
+</div>
+<div>
+- DevOps & Cloud: AWS (EC2/S3), DigitalOcean, Docker, CI/CD, GitHub, Jira
+</div>
+<div>
+- Methodologies: Agile, Scrum, Clean Code Architecture
+</div>
+<div>
+- DNS management: Godaddy, Namecheap, Bluehost, DO, GHL
+</div>div>
+</div>
 <div>
 - Statistical Modeling & Machine Learning
 </div>
