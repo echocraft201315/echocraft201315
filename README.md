@@ -12,13 +12,13 @@ I am a dedicated and passionate **Full stack developer**.
 <div>
   🛠️ Technical Stack:
 </div>
-div>
+<div>
 - Languages: JavaScript/TypeScript, Python, PHP (Learning Rust)
 </div>
 <div>
 - Frameworks: React, Next.js, Node.js, Express.js, FastAPI, Django, Flask, .Net, React Native/Flutter(mobile)
 </div>
-div>
+<div>
 - Databases: PostgreSQL, MongoDB, MySQL, Supabase (Firebase alternative)
 </div>
 <div>
@@ -34,20 +34,10 @@ div>
 - DNS management: Godaddy, Namecheap, Bluehost, DO, GHL
 </div>div>
 </div>
+
+
 <div>
-- Statistical Modeling & Machine Learning
-</div>
-<div>
-- Data Visualization & Insights
-</div>
-<div>
-- Predictive Analytics
-</div>
-<div>
-- Time Series Forecasting
-</div>
-<div>
-- Deep Learning & Natural Language Processing (NLP)
+ 🛠️ AI & Machine Learning
 </div>
 
 | **🚀 Category**                    | **💻 Skills & Libraries**                              |
